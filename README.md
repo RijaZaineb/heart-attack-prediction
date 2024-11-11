@@ -4,5 +4,5 @@ This project leverages machine learning algorithms to predict the risk of heart 
 
 By utilizing these models, this work has the potential to aid healthcare professionals in identifying at-risk individuals earlier, ultimately improving patient outcomes through proactive treatment and prevention strategies.
 
-# Key tools: 
+## Key tools: 
 Python, Data Preprocessing (Pandas), Scikit-learn, Data Visualization (Matplotlib)
